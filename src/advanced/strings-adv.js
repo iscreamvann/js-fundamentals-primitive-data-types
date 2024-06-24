@@ -9,8 +9,9 @@ const cityIndex = city.indexOf('York')
 // TODO - get the substring "York" from the city variable
 const citySubstring = city.substring(4)
 
-// TODO = replace 'York' with 'New Delhi'
-const cityReplaced = city.replace('York', 'Delhi')
+
+// TODO = replace 'York' with 'Delhi'
+const cityReplaced = ''
 
 // TODO - check if city starts with 'New' and ends with 'York'
 const cityStartsWith = city.startsWith('New')
