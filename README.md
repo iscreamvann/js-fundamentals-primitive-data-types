@@ -72,3 +72,4 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 - Alternatively, run:
 
   `npm run test-advanced`
+.
